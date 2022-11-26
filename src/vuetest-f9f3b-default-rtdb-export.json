@@ -1,0 +1,25 @@
+{
+  "profiles": {
+    "-N8YuxJoeTpoZHTWfucE": {
+      "userEmail": "theo@mail.com",
+      "userId": "RhMrauMWI0hOzLqot1wGhMAHr9z1",
+      "userPLZ": 65549,
+      "userRolle": "Lieferant",
+      "userWohnort": "Limburg"
+    },
+    "-N8YyaPULwz-4CdlOfAb": {
+      "userEmail": "email@mayer.com",
+      "userId": "6fxozTSmUXgSM06urUbtHvXLv2E3",
+      "userPLZ": 65540,
+      "userRolle": "Kunde",
+      "userWohnort": "Weilburg"
+    },
+    "-N8Yyikw-qqgrPultXaa": {
+      "userEmail": "max@mayer.com",
+      "userId": "cP7q9OARmAWYVUhbQ5m7QNJWuAx1",
+      "userPLZ": 65552,
+      "userRolle": "Lieferant",
+      "userWohnort": "Limburg"
+    }
+  }
+}
